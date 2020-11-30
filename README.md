@@ -1,5 +1,5 @@
 # dotenv
-Environment set up for productivity
+Environment set up for productivity 🤓
 
 - [Prerequisite](#prerequisite)
 - [Setup](#setup)
