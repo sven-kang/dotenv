@@ -19,7 +19,8 @@ git clone https://github.com/svenkang/dotenv.git
 cd dotenv
 ```
 
-## 🎉 Setup
+## 🚀 Setup
+Run the setup main script or each module separately from subdirectories.
 ```
 ./setup.sh
 ```
