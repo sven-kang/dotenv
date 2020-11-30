@@ -22,21 +22,3 @@ cd dotenv
 ```
 ./setup.sh
 ```
-
-## OSX Setup
-```
-./osx/setup.sh
-```
-
-## Terminal Setup
-```
-./terminal/setup.sh
-```
-## Browser Setup
-```
-./browser/setup.sh
-```
-## Editor Setup
-```
-./editor/setup.sh
-```
