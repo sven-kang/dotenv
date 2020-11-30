@@ -1,6 +1,7 @@
 # dotenv
 Environment set up for productivity 🤓
 
+## Contents
 - [Prerequisite](#prerequisite)
 - [Setup](#setup)
 - [OSX setup](#osx-setup)
@@ -9,7 +10,7 @@ Environment set up for productivity 🤓
 - [Browser setup](#browser-setup)
 - [Editor setup](#editor-setup)
 
-## Prerequisite
+## 🗓 Prerequisite
 Clone this repository for installation scripts.
 ```
 mkdir ~/dev
@@ -18,7 +19,7 @@ git clone https://github.com/svenkang/dotenv.git
 cd dotenv
 ```
 
-## Setup
+## 🎉 Setup
 ```
 ./setup.sh
 ```
