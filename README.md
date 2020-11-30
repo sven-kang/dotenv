@@ -2,6 +2,7 @@
 Environment set up for productivity
 
 - [Prerequisite](#prerequisite)
+- [Setup](#setup)
 - [OSX setup](#osx-setup)
 - [OSX apps](#osx-apps)
 - [Terminal setup](#terminal-setup)
@@ -16,15 +17,16 @@ cd ~/dev
 git clone https://github.com/svenkang/dotenv.git
 cd dotenv
 ```
+
+## Setup
+```
+./setup.sh
+```
+
 ## OSX Setup
 ```
 ./osx/setup.sh
 ```
-
-## OSX Apps
-- Screen Light Controller | [Flux](https://justgetflux.com/)
-- Menu Analytics | [IStat](https://bjango.com/mac/istatmenus/)
-- Break Timer | [TimeOut](https://www.dejal.com/timeout/)
 
 ## Terminal Setup
 ```
