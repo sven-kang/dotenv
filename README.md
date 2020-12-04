@@ -4,11 +4,10 @@ Environment set up for productivity 🤓
 ## Contents
 - [Prerequisite](#prerequisite)
 - [Setup](#setup)
-- [OSX setup](#osx-setup)
-- [OSX apps](#osx-apps)
-- [Terminal setup](#terminal-setup)
-- [Browser setup](#browser-setup)
-- [Editor setup](#editor-setup)
+- [OSX setup](https://github.com/svenkang/dotenv/blob/main/osx/setup.sh)
+- [Terminal setup](https://github.com/svenkang/dotenv/blob/main/terminal/setup.sh)
+- [Browser setup](https://github.com/svenkang/dotenv/blob/main/browser/setup.sh)
+- [Editor setup](https://github.com/svenkang/dotenv/blob/main/editor/setup.sh)
 
 ## 🗓 Prerequisite
 Clone this repository for installation scripts.
