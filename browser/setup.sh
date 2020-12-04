@@ -1,4 +1,4 @@
 #!/bin/bash
 
-# chrome settings import 
-# chrome plugins download
+# browser settings   (prefs.js)
+# browser extensions (extensions.yml)

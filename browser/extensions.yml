@@ -1,0 +1,14 @@
+extensions:
+  util: 
+    - tabliss
+    - stylus
+  privacy:
+    - ublock
+    - privacy-badger
+    - dashlane
+  dev:
+    - vimium
+    - react-developer-tool
+  design:
+    - what-font
+    - color-zilla

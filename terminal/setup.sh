@@ -28,6 +28,7 @@ brew install --cask firefox
 # dev
 brew install nvm
 nvm install node
+npm install -g eslint
 brew install git
 brew install --cask iterm2
 brew install --cask visual-studio-code

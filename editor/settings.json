@@ -1,0 +1,19 @@
+{
+    "editor.tabSize": 4,
+    "workbench.colorTheme": "Just Black",
+    "editor.fontSize": 18,
+    "window.zoomLevel": 1,
+    "editor.fontFamily": "Anonymous Pro",
+    "workbench.settings.editor": "json",
+    "[typescript]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "[html]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "workbench.iconTheme": "material-icon-theme",
+    "vim.easymotion": true,
+    "vim.incsearch": true,
+    "vim.smartRelativeLine": true,
+    "vim.useSystemClipboard": true,
+}
