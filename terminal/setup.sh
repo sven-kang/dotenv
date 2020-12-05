@@ -5,6 +5,7 @@
 brew update
 
 # cli
+brew install wget
 brew install zsh
 brew install vim
 brew install jq
@@ -31,6 +32,7 @@ nvm install node
 npm install -g eslint
 brew install git
 brew install --cask iterm2
+git clone https://github.com/zsh-users/zsh-autosuggestions ~/.zsh/zsh-autosuggestions
 brew install --cask visual-studio-code
 
 # configs
