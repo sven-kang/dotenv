@@ -1,6 +1,5 @@
 #!/bin/bash
 
+echo 'Please use the firefox account to sync the preferences...'
 # browser settings   (prefs.js)
-echo 'Please manually migrate browser preferences...'
 # browser extensions (extensions.yml)
-echo 'Please manually migrate browser extensions...'
