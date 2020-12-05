@@ -39,4 +39,4 @@ brew install --cask visual-studio-code
 cp .zshrc ~/.zshrc
 cp .vimrc ~/.vimrc
 
-echo 'Please manually setup iterm settings...'
+echo 'Please manually migrate iterm settings...'
