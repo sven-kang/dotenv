@@ -27,6 +27,7 @@ brew install --cask google-chrome
 brew install --cask firefox
 
 # dev
+brew install --cask docker
 brew install nvm
 nvm install node
 npm install -g eslint
