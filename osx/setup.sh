@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# general settings
+defaults write com.apple.desktopservices DSDontWriteNetworkStores -bool TRUE
 mkdir ~/dev
 # finder settings
 echo 'Please manually setup finder settings...'
