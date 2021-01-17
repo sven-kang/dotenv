@@ -8,6 +8,7 @@ brew update
 brew install wget
 brew install zsh
 brew install vim
+brew install neovim
 brew install jq
 brew install awk
 brew install sed
@@ -28,8 +29,8 @@ brew install --cask firefox
 
 # dev
 brew install --cask docker
+brew install node
 brew install nvm
-nvm install node
 npm install -g eslint
 brew install git
 brew install --cask iterm2

@@ -8,7 +8,6 @@ parse_git_branch() {
 setopt PROMPT_SUBST
 PROMPT='%9c%{%F{white}%}$(parse_git_branch)%{%F{none}%} $ '
 
-
 # alias
 alias home="cd ~/"
 alias dev="cd ~/dev"
@@ -21,6 +20,9 @@ alias gcm="git commit -m "
 alias gpsh="git push origin "
 alias gpm="git push origin master"
 alias dc="docker-compose"
+alias dcup="docker-compose up"
+alias dcdn="docker-compose down"
+alias dcps="docker-compose ps"
 
 # plugin
 source ~/.zsh/zsh-autosuggestions/zsh-autosuggestions.zsh
