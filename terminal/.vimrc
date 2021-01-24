@@ -21,3 +21,5 @@ set cmdheight=2
 set cursorline
 set shortmess+=c
 set backspace=indent,eol,start
+set cursorline
+hi CursorLine term=bold cterm=bold guibg=Grey40
